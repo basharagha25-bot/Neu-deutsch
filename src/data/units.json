@@ -1,34 +1,262 @@
 [
-    {
-        "id": "u1",
-        "title": "Kapitel 1: Ankommen",
-        "description": "Learn to introduce yourself and ask for directions.",
-        "lessons": [
-            {
-                "id": "l1",
-                "title": "Neu in der Stadt",
-                "type": "reading",
-                "content": "Hallo! Mein Name ist Sarah. Ich komme aus Ägypten. Ich bin neu in Berlin. Die Stadt ist sehr groß und interessant. Ich lerne Deutsch, weil ich hier arbeiten möchte."
-            },
-            {
-                "id": "l2",
-                "title": "Im Café",
-                "type": "dialogue",
-                "content": "Kellner: Hallo! Was möchten Sie bestellen? \nSarah: Ich möchte einen Cappuccino, bitte. \nKellner: Gerne. Sonst noch etwas? \nSarah: Nein, danke. Das ist alles."
-            }
-        ]
-    },
-    {
-        "id": "u2",
-        "title": "Kapitel 2: Zu Hause",
-        "description": "Talking about apartments and furniture.",
-        "lessons": [
-            {
-                "id": "l1",
-                "title": "Meine Wohnung",
-                "type": "reading",
-                "content": "Ich habe eine kleine Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad. Das Wohnzimmer ist hell und gemütlich."
-            }
-        ]
-    }
+  {
+    "id": "u1",
+    "title": "Kapitel 1: Ankommen",
+    "description": "Learn to introduce yourself and talk about your origins.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Neu in der Stadt",
+        "type": "reading",
+        "content": "Hallo! Mein Name ist Sarah. Ich komme aus Ägypten. Ich bin neu in Berlin. Die Stadt ist sehr groß und interessant. Ich lerne Deutsch, weil ich hier arbeiten möchte. Gestern habe ich einen Deutschkurs besucht. Der Kurs war gut, und ich habe viele neue Wörter gelernt."
+      },
+      {
+        "id": "l2",
+        "title": "Im Café",
+        "type": "dialogue",
+        "content": "Kellner: Hallo! Was möchten Sie bestellen?\nSarah: Ich möchte einen Cappuccino, bitte.\nKellner: Gerne. Sonst noch etwas?\nSarah: Nein, danke. Das ist alles.\nKellner: Das macht drei Euro fünfzig.\nSarah: Hier, bitte. Stimmt so.\nKellner: Vielen Dank!"
+      }
+    ]
+  },
+  {
+    "id": "u2",
+    "title": "Kapitel 2: Zu Hause",
+    "description": "Talking about apartments, furniture, and daily life at home.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Meine Wohnung",
+        "type": "reading",
+        "content": "Ich habe eine kleine Wohnung in Hamburg. Sie hat zwei Zimmer, eine Küche und ein Bad. Das Wohnzimmer ist hell und gemütlich. Im Schlafzimmer steht ein großes Bett. Die Küche ist modern mit einem neuen Herd und einem Kühlschrank."
+      },
+      {
+        "id": "l2",
+        "title": "Möbel kaufen",
+        "type": "dialogue",
+        "content": "Verkäufer: Guten Tag! Kann ich Ihnen helfen?\nKunde: Ja, ich suche ein Sofa.\nVerkäufer: Wir haben viele Sofas. Welche Farbe möchten Sie?\nKunde: Ich mag Blau oder Grau.\nVerkäufer: Dieses graue Sofa ist sehr bequem. Es kostet 450 Euro.\nKunde: Das gefällt mir. Ich nehme es."
+      }
+    ]
+  },
+  {
+    "id": "u3",
+    "title": "Kapitel 3: Essen und Trinken",
+    "description": "Learn vocabulary for food, drinks, and ordering in a restaurant.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Im Restaurant",
+        "type": "reading",
+        "content": "Am Samstag gehe ich oft in ein Restaurant. Ich esse gern Schnitzel mit Pommes frites. Meine Freundin isst lieber Salat. Zum Trinken bestelle ich meistens ein Mineralwasser oder ein Bier. Das Essen in Deutschland ist lecker, aber manchmal ein bisschen teuer."
+      },
+      {
+        "id": "l2",
+        "title": "Einkaufen im Supermarkt",
+        "type": "dialogue",
+        "content": "Verkäuferin: Guten Tag! Brauchen Sie eine Tüte?\nKundin: Ja, bitte. Eine kleine Tüte.\nVerkäuferin: Das macht zusammen zwölf Euro fünfzig.\nKundin: Kann ich mit Karte bezahlen?\nVerkäuferin: Ja, natürlich. Bitte hier unterschreiben.\nKundin: Danke schön. Auf Wiedersehen!"
+      }
+    ]
+  },
+  {
+    "id": "u4",
+    "title": "Kapitel 4: Arbeit und Beruf",
+    "description": "Discuss jobs, workplaces, and professional life.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Mein Beruf",
+        "type": "reading",
+        "content": "Ich arbeite als Ingenieur bei einer großen Firma. Jeden Tag fahre ich mit dem Bus zur Arbeit. Die Arbeit beginnt um acht Uhr und endet um fünf Uhr. Meine Kollegen sind nett und freundlich. Am Wochenende habe ich frei und kann mich erholen."
+      },
+      {
+        "id": "l2",
+        "title": "Ein Vorstellungsgespräch",
+        "type": "dialogue",
+        "content": "Chef: Guten Tag, Herr Müller. Bitte nehmen Sie Platz.\nBewerber: Danke sehr.\nChef: Warum möchten Sie bei uns arbeiten?\nBewerber: Ihre Firma hat einen guten Ruf. Ich möchte neue Erfahrungen sammeln.\nChef: Was sind Ihre Stärken?\nBewerber: Ich bin pünktlich, motiviert und arbeite gern im Team."
+      }
+    ]
+  },
+  {
+    "id": "u5",
+    "title": "Kapitel 5: Sport und Freizeit",
+    "description": "Talk about hobbies, sports, and free time activities.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Meine Hobbys",
+        "type": "reading",
+        "content": "In meiner Freizeit mache ich gern Sport. Am liebsten spiele ich Fußball mit meinen Freunden. Im Sommer gehe ich oft schwimmen. Im Winter fahre ich manchmal Ski. Sport ist wichtig für die Gesundheit und macht Spaß."
+      },
+      {
+        "id": "l2",
+        "title": "Im Fitnessstudio",
+        "type": "dialogue",
+        "content": "Trainer: Hallo! Sind Sie zum ersten Mal hier?\nKunde: Ja, ich möchte mich anmelden.\nTrainer: Sehr gut. Wir haben verschiedene Mitgliedschaften. Was interessiert Sie?\nKunde: Ich möchte dreimal pro Woche trainieren.\nTrainer: Dann empfehle ich das Standardpaket für 30 Euro im Monat.\nKunde: Das klingt gut. Wo muss ich unterschreiben?"
+      }
+    ]
+  },
+  {
+    "id": "u6",
+    "title": "Kapitel 6: Gesundheit",
+    "description": "Learn vocabulary for health, body parts, and visiting the doctor.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Beim Arzt",
+        "type": "reading",
+        "content": "Letzte Woche war ich krank. Ich hatte Kopfschmerzen und Fieber. Also bin ich zum Arzt gegangen. Der Arzt hat mich untersucht und gesagt: Sie haben eine Erkältung. Er hat mir Medikamente verschrieben. Nach drei Tagen ging es mir besser."
+      },
+      {
+        "id": "l2",
+        "title": "In der Apotheke",
+        "type": "dialogue",
+        "content": "Apothekerin: Guten Tag! Wie kann ich Ihnen helfen?\nKunde: Ich habe ein Rezept vom Arzt.\nApothekerin: Zeigen Sie mir bitte das Rezept. Ah, Antibiotika. Nehmen Sie dreimal täglich eine Tablette.\nKunde: Vor oder nach dem Essen?\nApothekerin: Nach dem Essen ist besser. Das macht fünf Euro Zuzahlung."
+      }
+    ]
+  },
+  {
+    "id": "u7",
+    "title": "Kapitel 7: Reisen und Verkehr",
+    "description": "Plan trips, buy tickets, and navigate transportation.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Eine Reise planen",
+        "type": "reading",
+        "content": "Im Urlaub möchte ich nach Italien fahren. Ich muss zuerst einen Flug buchen und ein Hotel reservieren. Die Reise dauert etwa zwei Stunden mit dem Flugzeug. In Italien möchte ich die schönen Städte besichtigen und das leckere Essen probieren."
+      },
+      {
+        "id": "l2",
+        "title": "Am Bahnhof",
+        "type": "dialogue",
+        "content": "Reisender: Entschuldigung, wann fährt der nächste Zug nach München?\nMitarbeiter: Der nächste Zug fährt um 14:35 Uhr von Gleis 7.\nReisender: Muss ich umsteigen?\nMitarbeiter: Nein, das ist ein Direktzug.\nReisender: Wie viel kostet eine Fahrkarte?\nMitarbeiter: Eine einfache Fahrt kostet 79 Euro. Hin und zurück 120 Euro."
+      }
+    ]
+  },
+  {
+    "id": "u8",
+    "title": "Kapitel 8: Wetter und Klima",
+    "description": "Discuss weather conditions and seasonal changes.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Das Wetter heute",
+        "type": "reading",
+        "content": "Heute ist das Wetter schön. Die Sonne scheint und es ist warm. Im Sommer sind die Temperaturen in Deutschland oft über 25 Grad. Im Winter wird es kalt und manchmal schneit es. Der Herbst ist oft windig und regnerisch."
+      },
+      {
+        "id": "l2",
+        "title": "Wettervorhersage",
+        "type": "dialogue",
+        "content": "Anna: Wie wird das Wetter morgen?\nBen: Ich habe die Wettervorhersage gesehen. Es soll regnen.\nAnna: Oh nein! Ich wollte wandern gehen.\nBen: Vielleicht am Wochenende? Da soll es wieder sonnig werden.\nAnna: Gute Idee. Dann verschieben wir die Wanderung auf Samstag."
+      }
+    ]
+  },
+  {
+    "id": "u9",
+    "title": "Kapitel 9: Feste und Feiertage",
+    "description": "Learn about German celebrations and traditions.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Weihnachten in Deutschland",
+        "type": "reading",
+        "content": "Weihnachten ist ein wichtiges Fest in Deutschland. Die Familien treffen sich und feiern zusammen. Man schmückt einen Weihnachtsbaum und singt Weihnachtslieder. Am 24. Dezember gibt es Geschenke. Das Essen ist traditionell: Gans oder Kartoffelsalat mit Würstchen."
+      },
+      {
+        "id": "l2",
+        "title": "Geburtstagsfeier",
+        "type": "dialogue",
+        "content": "Lisa: Herzlichen Glückwunsch zum Geburtstag, Tom!\nTom: Danke schön, Lisa!\nLisa: Hier ist ein kleines Geschenk für dich.\nTom: Oh, wie nett! Darf ich es öffnen?\nLisa: Natürlich! Ich hoffe, es gefällt dir.\nTom: Ein Buch über Fotografie! Das ist perfekt, danke!"
+      }
+    ]
+  },
+  {
+    "id": "u10",
+    "title": "Kapitel 10: Medien und Kommunikation",
+    "description": "Discuss technology, internet, and communication.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Soziale Medien",
+        "type": "reading",
+        "content": "Heute benutzen viele Menschen soziale Medien. Sie posten Fotos und Videos und kommunizieren mit Freunden. Manche Leute verbringen viele Stunden am Handy. Das kann problematisch sein. Es ist wichtig, auch Zeit ohne Bildschirm zu verbringen."
+      },
+      {
+        "id": "l2",
+        "title": "Handyvertrag",
+        "type": "dialogue",
+        "content": "Berater: Guten Tag! Suchen Sie einen neuen Handyvertrag?\nKundin: Ja, mein alter Vertrag ist zu teuer.\nBerater: Was brauchen Sie? Viel Datenvolumen?\nKundin: Ja, mindestens 10 GB pro Monat.\nBerater: Dieser Tarif hat 15 GB und kostet nur 20 Euro monatlich.\nKundin: Das klingt gut. Kann ich meine alte Nummer behalten?"
+      }
+    ]
+  },
+  {
+    "id": "u11",
+    "title": "Kapitel 11: Umwelt und Natur",
+    "description": "Learn about environment, nature, and sustainability.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Umweltschutz",
+        "type": "reading",
+        "content": "Umweltschutz ist sehr wichtig. Wir müssen weniger Plastik benutzen und mehr recyceln. In Deutschland trennen die Menschen ihren Müll: Papier, Plastik, Glas und Bioabfall. Auch Energie sparen hilft der Umwelt. Man sollte das Licht ausschalten, wenn man es nicht braucht."
+      },
+      {
+        "id": "l2",
+        "title": "Im Park",
+        "type": "dialogue",
+        "content": "Maria: Der Park ist so schön! Schau mal, die Blumen!\nPeter: Ja, im Frühling ist alles grün und bunt.\nMaria: Hast du die Vögel gehört?\nPeter: Ja, das sind Amseln. Sie singen wunderschön.\nMaria: Lass uns öfter hierher kommen. Die Natur tut gut.\nPeter: Gute Idee. Nächstes Mal bringen wir ein Picknick mit."
+      }
+    ]
+  },
+  {
+    "id": "u12",
+    "title": "Kapitel 12: Zukunftspläne",
+    "description": "Discuss future plans, dreams, and goals.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Meine Zukunft",
+        "type": "reading",
+        "content": "In der Zukunft möchte ich viel reisen und neue Länder kennenlernen. Ich werde weiter Deutsch lernen, bis ich fließend spreche. Vielleicht werde ich eines Tages in Deutschland leben und arbeiten. Mein Traum ist es, ein eigenes Unternehmen zu gründen."
+      },
+      {
+        "id": "l2",
+        "title": "Träume und Wünsche",
+        "type": "dialogue",
+        "content": "Nina: Was sind deine Pläne für die Zukunft?\nMax: Ich möchte mein Studium beenden und dann einen guten Job finden.\nNina: Und wo möchtest du leben?\nMax: Am liebsten in einer großen Stadt wie Berlin oder München.\nNina: Das klingt spannend! Ich wünsche dir viel Erfolg.\nMax: Danke! Was sind deine Träume?"
+      }
+    ]
+  },
+  {
+    "id": "sup1",
+    "title": "Level 11: Backen mit Freunden",
+    "description": "Supplementary content - Baking vocabulary and dialogues.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Plätzchen backen",
+        "type": "dialogue",
+        "content": "Maria: Hallo, John! Bist du heute bereit zu backen?\nJohn: Hallo, Maria! Ja, ich bin bereit. Was backen wir?\nMaria: Wir backen Plätzchen. Magst du Plätzchen?\nJohn: Ja, ich liebe Plätzchen! Was brauchen wir?\nMaria: Wir brauchen etwas Mehl, Zucker, Butter und Eier.\nJohn: Wie viel Mehl brauchen wir?\nMaria: Wir brauchen zwei Tassen Mehl.\nJohn: Ich kann es abmessen.\nMaria: Großartig! Ich hole den Zucker. Wir brauchen eine Tasse Zucker.\nJohn: Alles klar! Wo ist der Zucker?\nMaria: Der Zucker ist in der Speisekammer.\nMaria: Jetzt brauchen wir Butter.\nJohn: Wir brauchen einen Block Butter.\nMaria: Okay, ich hole die Butter.\nJohn: Verwenden wir auch Eier?\nMaria: Ja, wir brauchen zwei Eier.\nJohn: Ich kann die Eier aus dem Kühlschrank holen.\nMaria: Perfekt! Jetzt haben wir alles.\nMaria: Zuerst müssen wir Butter und Zucker vermischen.\nMaria: Als Nächstes fügen wir die Eier hinzu.\nJohn: Okay, ich werde die Eier in die Schüssel schlagen.\nMaria: Jetzt mische alles gut zusammen.\nMaria: Jetzt können wir das Mehl hinzufügen.\nJohn: Fügen wir das Mehl langsam hinzu?\nMaria: Ja, füge es langsam hinzu.\nMaria: Jetzt legen wir sie auf das Backblech.\nMaria: Wir müssen den Ofen auf 180 Grad einstellen.\nMaria: Wir backen sie etwa zehn Minuten."
+      }
+    ]
+  },
+  {
+    "id": "sup2",
+    "title": "Level 12: Alltag und Routinen",
+    "description": "Supplementary content - Daily routines and activities.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Mein Tagesablauf",
+        "type": "reading",
+        "content": "Jeden Morgen stehe ich um sechs Uhr auf. Zuerst dusche ich und putze meine Zähne. Dann frühstücke ich: Brot mit Käse und eine Tasse Kaffee. Um halb acht fahre ich zur Arbeit. Mittags esse ich in der Kantine. Nach der Arbeit gehe ich einkaufen oder treffe Freunde. Abends koche ich und sehe fern. Um zehn Uhr gehe ich ins Bett."
+      },
+      {
+        "id": "l2",
+        "title": "Wochenende",
+        "type": "dialogue",
+        "content": "Eva: Was machst du am Wochenende?\nLukas: Am Samstag schlafe ich lange aus. Dann räume ich die Wohnung auf.\nEva: Und am Nachmittag?\nLukas: Ich gehe ins Fitnessstudio. Abends treffe ich Freunde.\nEva: Und am Sonntag?\nLukas: Sonntag ist mein Ruhetag. Ich lese ein Buch oder schaue Filme.\nEva: Das klingt entspannt. Ich muss leider arbeiten."
+      }
+    ]
+  }
 ]
