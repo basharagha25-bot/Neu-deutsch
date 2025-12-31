@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Volume2, Plus, X, Check } from 'lucide-react';
+import { Volume2, Plus, X, Check, Globe } from 'lucide-react';
 import { useVocabulary } from '../context/VocabularyContext';
 
-export default function InteractiveText({ content }) {
+export default function InteractiveText({ content, contentArabic }) {
   const [selectedWord, setSelectedWord] = useState(null);
   const [position, setPosition] = useState({ x: 0, y: 0 });
 
@@ -20,30 +20,60 @@ export default function InteractiveText({ content }) {
     setSelectedWord(cleanWord);
   };
 
+  const [showArabic, setShowArabic] = useState(false);
+
   // Split by newlines first to preserve paragraph structure
   const lines = content.split('\n');
 
   return (
-    <div className="text-lg leading-relaxed text-slate-800 space-y-4">
-      {lines.map((line, lineIndex) => (
-        <div key={lineIndex}>
-          {line.split(/(\s+)/).map((segment, index) => {
-             // Basic check if it's a word or whitespace
-             const isWord = /\S/.test(segment);
-             return isWord ? (
-               <span
-                 key={index}
-                 onClick={(e) => handleWordClick(segment, e)}
-                 className="cursor-pointer hover:bg-yellow-200 hover:text-yellow-900 rounded px-0.5 transition-colors duration-200"
-               >
-                 {segment}
-               </span>
-             ) : (
-               <span key={index}>{segment}</span>
-             );
-          })}
+    <div className="space-y-4">
+      <div className="text-lg leading-relaxed text-slate-800 space-y-4">
+        {lines.map((line, lineIndex) => (
+          <div key={lineIndex}>
+            {line.split(/(\s+)/).map((segment, index) => {
+               // Basic check if it's a word or whitespace
+               const isWord = /\S/.test(segment);
+               return isWord ? (
+                 <span
+                   key={index}
+                   onClick={(e) => handleWordClick(segment, e)}
+                   className="cursor-pointer hover:bg-yellow-200 hover:text-yellow-900 rounded px-0.5 transition-colors duration-200"
+                 >
+                   {segment}
+                 </span>
+               ) : (
+                 <span key={index}>{segment}</span>
+               );
+            })}
+          </div>
+        ))}
+      </div>
+      
+      {contentArabic && (
+        <div className="mt-4">
+          <button 
+            onClick={() => setShowArabic(!showArabic)}
+            className="flex items-center gap-2 text-sm text-blue-600 hover:text-blue-800 font-medium mb-2"
+          >
+            <Globe size={16} />
+            {showArabic ? 'إخفاء الترجمة العربية' : 'عرض الترجمة العربية'}
+          </button>
+          
+          {showArabic && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: 'auto' }}
+              exit={{ opacity: 0, height: 0 }}
+              className="bg-emerald-50 border border-emerald-200 rounded-lg p-4 text-right"
+              dir="rtl"
+            >
+              <p className="text-lg text-emerald-900 leading-relaxed font-arabic">
+                {contentArabic}
+              </p>
+            </motion.div>
+          )}
         </div>
-      ))}
+      )}
       
       <AnimatePresence>
         {selectedWord && (

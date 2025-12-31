@@ -16,3 +16,15 @@ body {
 .glass-panel {
   @apply bg-white/70 backdrop-blur-md border border-white/50 shadow-sm;
 }
+
+/* Arabic font support */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+
+.font-arabic {
+  font-family: 'Noto Sans Arabic', 'Arial', sans-serif;
+}
+
+/* RTL text direction for Arabic */
+[dir="rtl"] {
+  text-align: right;
+}

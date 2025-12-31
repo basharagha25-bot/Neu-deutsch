@@ -2,25 +2,92 @@
   {
     "id": "k1",
     "title": "Kapitel 1: Und was machst du?",
-    "description": "Sich vorstellen, über Vergangenes berichten, sich verabreden.",
+    "description": "التعريف عن النفس | Sich vorstellen, über Vergangenes berichten, sich verabreden.",
+    "descriptionArabic": "التعريف عن النفس - التحدث عن الماضي (زمن الماضي Perfekt) - تحديد المواعيد مع التعليل - فهم معلومات من موقع إلكتروني",
     "lessons": [
       {
         "id": "l1",
-        "title": "Über sich sprechen",
+        "title": "Ben: Familie (العائلة)",
         "type": "reading",
-        "content": "Meine Eltern sind schon Rentner und leben auf dem Land. Ich habe einen Bruder und eine Schwester. Mein Bruder ist geschieden und hat eine Tochter. Sie ist total süß. Meine Schwester hat noch keine Kinder. Ich auch nicht, aber in ein paar Jahren möchte ich gern Kinder haben.\n\nNach der Schule habe ich eine Ausbildung gemacht und jetzt arbeite ich als Bankkauffrau. Ich habe nette Kollegen und meine Arbeit macht mir Spaß. Aber vielleicht studiere ich auch noch an der Uni, mal sehen."
+        "content": "Meine Eltern sind schon Rentner und leben auf dem Land. Ich habe einen Bruder und eine Schwester. Mein Bruder ist geschieden und hat eine Tochter. Sie ist total süß. Meine Schwester hat noch keine Kinder. Ich auch nicht, aber in ein paar Jahren möchte ich gern Kinder haben.",
+        "contentArabic": "والداي متقاعدان ويعيشان في الريف. لدي أخ وأخت. أخي مطلق ولديه ابنة. إنها لطيفة جداً. أختي ليس لديها أطفال بعد. وأنا أيضاً لا، لكن بعد بضع سنوات أود أن يكون لدي أطفال."
       },
       {
         "id": "l2",
-        "title": "Sprachen und Wohnen",
+        "title": "Marie: Beruf (المهنة)",
         "type": "reading",
-        "content": "Meine Mutter kommt aus Österreich und mein Vater ist in Italien geboren. Ich habe also zwei Muttersprachen und spreche Italienisch und Deutsch fließend. Ich habe auch Englisch und Französisch gelernt, aber Französisch spreche ich nur ein bisschen.\n\nIch komme aus Basel und lebe jetzt in Zürich. Meine Freundin und ich haben ein Apartment im Stadtzentrum. Wir haben es zusammen renoviert. Es ist klein, aber schön. Uns gefällt das Leben in der Stadt, aber manchmal ist es auch ein bisschen laut und stressig."
+        "content": "Nach der Schule habe ich eine Ausbildung gemacht und jetzt arbeite ich als Bankkauffrau. Ich habe nette Kollegen und meine Arbeit macht mir Spaß. Aber vielleicht studiere ich auch noch an der Uni, mal sehen.",
+        "contentArabic": "بعد المدرسة قمت بتدريب مهني، والآن أعمل كموظفة بنك. لدي زملاء لطيفون، وعملي ممتع. لكن ربما أدرس أيضاً في الجامعة، سنرى."
       },
       {
         "id": "l3",
-        "title": "Freizeit",
+        "title": "Matteo: Sprachen (اللغات)",
         "type": "reading",
-        "content": "Ich treffe gern meine Freundinnen und Freunde. Dann kochen wir zusammen oder gehen ins Restaurant. Ich mache auch gern Sport. Ich spiele Basketball und ich reite. Meine Eltern haben ein Pferd. Am Wochenende auf dem Sofa liegen und ein gutes Buch lesen - das finde ich auch toll."
+        "content": "Meine Mutter kommt aus Österreich und mein Vater ist in Italien geboren. Ich habe also zwei Muttersprachen und spreche Italienisch und Deutsch fließend. Ich habe auch Englisch und Französisch gelernt, aber Französisch spreche ich nur ein bisschen.",
+        "contentArabic": "أمي من النمسا وأبي وُلد في إيطاليا. لذلك لدي لغتان أم، وأتحدث الإيطالية والألمانية بطلاقة. تعلمت أيضاً الإنجليزية والفرنسية، لكنني أتحدث الفرنسية قليلاً فقط."
+      },
+      {
+        "id": "l4",
+        "title": "Jonas: Wohnen (السكن)",
+        "type": "reading",
+        "content": "Ich komme aus Basel und lebe jetzt in Zürich. Meine Freundin und ich haben ein Apartment im Stadtzentrum. Wir haben es zusammen renoviert. Es ist klein, aber schön. Uns gefällt das Leben in der Stadt, aber manchmal ist es auch ein bisschen laut und stressig.",
+        "contentArabic": "أنا من بازل وأعيش الآن في زيورخ. أنا وصديقتي نعيش في شقة في مركز المدينة. قمنا بترميمها معاً. إنها صغيرة لكنها جميلة. نحب الحياة في المدينة، لكنها أحياناً تكون صاخبة ومجهدة."
+      },
+      {
+        "id": "l5",
+        "title": "Julia: Freizeit (وقت الفراغ)",
+        "type": "reading",
+        "content": "Ich treffe gern meine Freundinnen und Freunde. Dann kochen wir zusammen oder gehen ins Restaurant. Ich mache auch gern Sport. Ich spiele Basketball und ich reite. Meine Eltern haben ein Pferd. Am Wochenende auf dem Sofa liegen und ein gutes Buch lesen – das finde ich auch toll.",
+        "contentArabic": "أحب مقابلة أصدقائي. نطبخ معاً أو نذهب إلى المطعم. أحب أيضاً ممارسة الرياضة. ألعب كرة السلة وأركب الخيل. لدى والدي حصان. وفي عطلة نهاية الأسبوع أحب الاستلقاء على الأريكة وقراءة كتاب جيد."
+      },
+      {
+        "id": "l6",
+        "title": "Und was hast du gemacht? (ماذا فعلت؟)",
+        "type": "reading",
+        "content": "Das letzte Jahr war echt spannend. Es ist viel passiert. Ich habe meine Ausbildung zur Augenoptikerin beendet. Im Juni habe ich meine Prüfungen geschrieben. Ich habe sehr viel gelernt. Das war natürlich stressig. Zum Glück habe ich gute Noten bekommen.\n\nDann bin ich mit einer Freundin nach Spanien geflogen. Wir haben ein Auto gemietet und sind drei Wochen lang durch das Land gefahren.\n\nIm August hat meine Schwester geheiratet und ich habe mit ihr zusammen das Fest organisiert.",
+        "contentArabic": "كان العام الماضي مليئاً بالأحداث. أنهت جوليا تدريبها، وقدمت امتحاناتها، وسافرت إلى إسبانيا، ونظمت حفل زفاف أختها."
+      },
+      {
+        "id": "l7",
+        "title": "Grammatik: Perfekt (الماضي)",
+        "type": "grammar",
+        "content": "Bildung: haben / sein + Partizip II\n\nBeispiele:\n• Jonas hat ein Hobby gefunden.\n• Julia ist durch Spanien gereist.\n\nRegel:\n• Bewegung & Zustandsänderung → sein\n• Alle anderen → haben\n\nÜbungen:\n1. Jonas hat sein Studium begonnen.\n2. Julia ist durch Spanien gereist.\n3. Jonas hat eine Wohnung gesucht.\n4. Julia hat ihre Ausbildung abgeschlossen.\n5. Jonas ist von Bern nach Zürich gezogen.\n6. Julia hat im Sommer geheiratet.\n7. Jonas hat ein Hobby gefunden.",
+        "contentArabic": "نستخدم haben أو sein + التصريف الثالث للفعل.\n\nنستخدم sein مع أفعال الحركة وتغيير الحالة.\nنستخدم haben مع جميع الأفعال الأخرى."
+      },
+      {
+        "id": "l8",
+        "title": "Wollt ihr kommen? (هل تريدون المجيء؟)",
+        "type": "dialogue",
+        "content": "Ben: Wollt ihr morgen Abend kommen? Es gibt Spezialitäten aus dem Allgäu.\nFelix: Lang nicht gesehen. Komme gern. Kann ich was mitbringen?\nMarvin: Ich kann erst später, muss arbeiten. Überstunden!\nLea: Danke für die Einladung. Ich kann leider nicht. Besuche meinen Vater.\n\nBegründungen mit weil:\n• Ben schreibt den Freunden, weil er sie einladen will.\n• Felix kommt gern, weil er Ben mag.\n• Marvin kommt später, weil er arbeiten muss.\n• Lea kann nicht kommen, weil sie ihren Vater besucht.",
+        "contentArabic": "رسائل قصيرة للدعوة والاعتذار.\n\nفي جملة weil يأتي الفعل في نهاية الجملة."
+      },
+      {
+        "id": "l9",
+        "title": "Vorschlagen – Zusagen – Absagen",
+        "type": "reading",
+        "content": "Etwas vorschlagen:\n• Gehen wir zusammen ...?\n• Hast du auch Lust?\n• Hast du am/um ... Zeit?\n\nZusagen:\n• Das ist eine gute Idee.\n• Oh ja, gern.\n• Einverstanden.\n\nAbsagen:\n• Ich möchte gern, aber ...\n• Schade, da geht es leider nicht.\n• Da kann ich leider nicht, weil ...",
+        "contentArabic": "اقتراح – موافقة – اعتذار."
+      },
+      {
+        "id": "l10",
+        "title": "Essen ohne Licht (مطعم بدون ضوء)",
+        "type": "reading",
+        "content": "Das Restaurant 'lichtlos' ist besonders: Man kann nichts sehen! Man bestellt an der Rezeption und geht dann in einen dunklen Raum. Man sieht nichts, aber die anderen Sinne werden stärker: Hören, Schmecken, Riechen und Fühlen werden wichtig.\n\nHandys und Kameras müssen aus sein. Fotografieren ist verboten. Nach dem Essen bezahlt man an der Rezeption.",
+        "contentArabic": "مطعم يتم فيه تناول الطعام في الظلام لتقوية الحواس الأخرى."
+      },
+      {
+        "id": "l11",
+        "title": "Lernen mit allen Sinnen (التعلم بالحواس)",
+        "type": "reading",
+        "content": "Lernen Sie Wörter so:\n• sehen - Bilder ansehen\n• hören - Wörter hören und nachsprechen\n• fühlen - mit den Händen fühlen\n• riechen - Gegenstände riechen\n• schmecken - Essen probieren\n\nBeschreiben Sie: 'Ich sehe etwas. Das ist rot.' Die anderen raten.",
+        "contentArabic": "التعلم باستخدام جميع الحواس: الرؤية، السمع، اللمس، الشم، التذوق."
+      },
+      {
+        "id": "l12",
+        "title": "Redemittel: Sich vorstellen (التعبيرات)",
+        "type": "reading",
+        "content": "Sich vorstellen:\n• Ich komme aus ...\n• Ich lebe jetzt in ...\n• Ich bin verheiratet/geschieden/ledig.\n• Ich habe ein Kind / keine Kinder.\n• Ich habe eine Ausbildung gemacht.\n• Ich arbeite als ...\n• Ich studiere ...\n• In der Freizeit mache/gehe/spiele ich ...\n• Ich spreche Deutsch/Englisch/...",
+        "contentArabic": "ملخص شامل للتعابير والقواعد للتعريف عن النفس."
       }
     ]
   },

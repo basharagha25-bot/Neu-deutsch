@@ -55,7 +55,7 @@ function LessonSection({ lesson, index }) {
       </div>
 
       <div className="prose prose-slate max-w-none">
-        <InteractiveText content={lesson.content} />
+        <InteractiveText content={lesson.content} contentArabic={lesson.contentArabic} />
       </div>
 
       <div className="mt-8">
