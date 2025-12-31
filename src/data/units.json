@@ -1,229 +1,254 @@
 [
   {
-    "id": "u1",
-    "title": "Kapitel 1: Ankommen",
-    "description": "Learn to introduce yourself and talk about your origins.",
+    "id": "k1",
+    "title": "Kapitel 1: Und was machst du?",
+    "description": "Sich vorstellen, über Vergangenes berichten, sich verabreden.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Neu in der Stadt",
+        "title": "Über sich sprechen",
         "type": "reading",
-        "content": "Hallo! Mein Name ist Sarah. Ich komme aus Ägypten. Ich bin neu in Berlin. Die Stadt ist sehr groß und interessant. Ich lerne Deutsch, weil ich hier arbeiten möchte. Gestern habe ich einen Deutschkurs besucht. Der Kurs war gut, und ich habe viele neue Wörter gelernt."
+        "content": "Meine Eltern sind schon Rentner und leben auf dem Land. Ich habe einen Bruder und eine Schwester. Mein Bruder ist geschieden und hat eine Tochter. Sie ist total süß. Meine Schwester hat noch keine Kinder. Ich auch nicht, aber in ein paar Jahren möchte ich gern Kinder haben.\n\nNach der Schule habe ich eine Ausbildung gemacht und jetzt arbeite ich als Bankkauffrau. Ich habe nette Kollegen und meine Arbeit macht mir Spaß. Aber vielleicht studiere ich auch noch an der Uni, mal sehen."
       },
       {
         "id": "l2",
-        "title": "Im Café",
-        "type": "dialogue",
-        "content": "Kellner: Hallo! Was möchten Sie bestellen?\nSarah: Ich möchte einen Cappuccino, bitte.\nKellner: Gerne. Sonst noch etwas?\nSarah: Nein, danke. Das ist alles.\nKellner: Das macht drei Euro fünfzig.\nSarah: Hier, bitte. Stimmt so.\nKellner: Vielen Dank!"
+        "title": "Sprachen und Wohnen",
+        "type": "reading",
+        "content": "Meine Mutter kommt aus Österreich und mein Vater ist in Italien geboren. Ich habe also zwei Muttersprachen und spreche Italienisch und Deutsch fließend. Ich habe auch Englisch und Französisch gelernt, aber Französisch spreche ich nur ein bisschen.\n\nIch komme aus Basel und lebe jetzt in Zürich. Meine Freundin und ich haben ein Apartment im Stadtzentrum. Wir haben es zusammen renoviert. Es ist klein, aber schön. Uns gefällt das Leben in der Stadt, aber manchmal ist es auch ein bisschen laut und stressig."
+      },
+      {
+        "id": "l3",
+        "title": "Freizeit",
+        "type": "reading",
+        "content": "Ich treffe gern meine Freundinnen und Freunde. Dann kochen wir zusammen oder gehen ins Restaurant. Ich mache auch gern Sport. Ich spiele Basketball und ich reite. Meine Eltern haben ein Pferd. Am Wochenende auf dem Sofa liegen und ein gutes Buch lesen - das finde ich auch toll."
       }
     ]
   },
   {
-    "id": "u2",
-    "title": "Kapitel 2: Zu Hause",
-    "description": "Talking about apartments, furniture, and daily life at home.",
+    "id": "k2",
+    "title": "Kapitel 2: Das letzte Jahr",
+    "description": "Perfekt verwenden, über Vergangenes berichten.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Meine Wohnung",
+        "title": "Julia: Prüfung, Urlaub und ein Fest",
         "type": "reading",
-        "content": "Ich habe eine kleine Wohnung in Hamburg. Sie hat zwei Zimmer, eine Küche und ein Bad. Das Wohnzimmer ist hell und gemütlich. Im Schlafzimmer steht ein großes Bett. Die Küche ist modern mit einem neuen Herd und einem Kühlschrank."
+        "content": "Das letzte Jahr war echt spannend. Es ist viel passiert. Ich habe meine Ausbildung zur Augenoptikerin beendet. Im Juni habe ich meine Prüfungen geschrieben. Ich habe sehr viel gelernt. Das war natürlich stressig. Zum Glück habe ich gute Noten bekommen.\n\nDann bin ich mit einer Freundin nach Spanien geflogen. Lilly hat früher dort gelebt und spricht perfekt Spanisch. Wir haben ein Auto gemietet und sind drei Wochen lang durch das Land gefahren. Wir haben auch Lillys Freunde in Madrid besucht.\n\nIm August hat meine Schwester geheiratet und ich habe mit ihr zusammen das Fest organisiert. Das war viel Arbeit, aber die Hochzeit war wirklich romantisch. Viele Freunde und Verwandte sind gekommen und wir haben zusammen gefeiert."
       },
       {
         "id": "l2",
-        "title": "Möbel kaufen",
-        "type": "dialogue",
-        "content": "Verkäufer: Guten Tag! Kann ich Ihnen helfen?\nKunde: Ja, ich suche ein Sofa.\nVerkäufer: Wir haben viele Sofas. Welche Farbe möchten Sie?\nKunde: Ich mag Blau oder Grau.\nVerkäufer: Dieses graue Sofa ist sehr bequem. Es kostet 450 Euro.\nKunde: Das gefällt mir. Ich nehme es."
+        "title": "Jonas: Leben und studieren in Zürich",
+        "type": "reading",
+        "content": "Ich bin letztes Jahr umgezogen, wohne jetzt in Zürich und studiere Biologie. Im Herbst habe ich mein Studium angefangen. Zuerst habe ich keine Wohnung gefunden, aber ich habe immer weitergesucht und jetzt habe ich ein Apartment im Zentrum. Das hat mir gleich gefallen.\n\nMeine Freundin ist dann auch nach Zürich gekommen, sie studiert Mathematik. Vorher hat sie in Bern gewohnt, aber jetzt leben wir zusammen. Für zwei Leute ist die Wohnung etwas klein, aber es geht. Wir sind sehr aktiv und haben schon viele Leute kennengelernt, das ist toll.\n\nUnd ich habe jetzt ein neues Hobby: Ich spiele Tennis. Ich habe an einem Kurs teilgenommen und es macht wirklich Spaß. Vielleicht melde ich mich bald in einem Verein an."
       }
     ]
   },
   {
-    "id": "u3",
-    "title": "Kapitel 3: Essen und Trinken",
-    "description": "Learn vocabulary for food, drinks, and ordering in a restaurant.",
+    "id": "k3",
+    "title": "Kapitel 3: Wollt ihr kommen?",
+    "description": "Sich verabreden, etwas begründen mit weil.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Im Restaurant",
-        "type": "reading",
-        "content": "Am Samstag gehe ich oft in ein Restaurant. Ich esse gern Schnitzel mit Pommes frites. Meine Freundin isst lieber Salat. Zum Trinken bestelle ich meistens ein Mineralwasser oder ein Bier. Das Essen in Deutschland ist lecker, aber manchmal ein bisschen teuer."
+        "title": "Bens Einladung",
+        "type": "dialogue",
+        "content": "Ben: Es ist so schön in Oberstdorf. Aber morgen fahr ich wieder zurück. Wollt ihr morgen Abend kommen? Es gibt Spezialitäten aus dem Allgäu.\n\nFelix: Lang nicht gesehen. Komme gern. Kann ich was mitbringen?\nBen: Aber sicher. Kein Problem. Und bring Taiga mit!\n\nMarvin: Ich kann erst später, muss arbeiten. Überstunden! Ist das auch okay?\nBen: Oh, das ist aber schade. Was ist denn los?\n\nLea: Danke für die Einladung. Ich kann leider nicht. Besuche meinen Vater. Er hat die Grippe."
       },
       {
         "id": "l2",
-        "title": "Einkaufen im Supermarkt",
-        "type": "dialogue",
-        "content": "Verkäuferin: Guten Tag! Brauchen Sie eine Tüte?\nKundin: Ja, bitte. Eine kleine Tüte.\nVerkäuferin: Das macht zusammen zwölf Euro fünfzig.\nKundin: Kann ich mit Karte bezahlen?\nVerkäuferin: Ja, natürlich. Bitte hier unterschreiben.\nKundin: Danke schön. Auf Wiedersehen!"
+        "title": "Begründungen mit weil",
+        "type": "reading",
+        "content": "Ben schreibt den Freunden, weil er sie zum Essen einladen will.\nFelix kommt gern, weil er Ben lang nicht gesehen hat.\nMarvin kommt später, weil er arbeiten muss.\nMarvin bringt seinen Hund mit, weil Ben ihn gern mag.\nLea kann nicht kommen, weil sie ihren Vater besucht."
       }
     ]
   },
   {
-    "id": "u4",
-    "title": "Kapitel 4: Arbeit und Beruf",
-    "description": "Discuss jobs, workplaces, and professional life.",
+    "id": "k4",
+    "title": "Kapitel 4: Nach der Schulzeit",
+    "description": "Über die Schulzeit sprechen, Modalverben im Präteritum.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Mein Beruf",
+        "title": "Schule - eine schöne Zeit?",
         "type": "reading",
-        "content": "Ich arbeite als Ingenieur bei einer großen Firma. Jeden Tag fahre ich mit dem Bus zur Arbeit. Die Arbeit beginnt um acht Uhr und endet um fünf Uhr. Meine Kollegen sind nett und freundlich. Am Wochenende habe ich frei und kann mich erholen."
+        "content": "Ich wollte immer erwachsen sein. Das verstehe ich jetzt gar nicht mehr. In der Schule hatte ich so viel Freizeit. Und sechs Wochen Sommerferien! Da musste man nichts machen und konnte immer ins Schwimmbad fahren.\n\nIch bin erst mit 14 Jahren nach Deutschland gekommen. Am Anfang war es schwer, ich konnte ja die Sprache nicht richtig sprechen. Aber nach ein paar Monaten hatte ich viele Freunde und dann war alles gut. Ich hatte mit ihnen immer einen Riesenspaß! Hauptsache, wir konnten uns jeden Tag sehen."
       },
       {
         "id": "l2",
-        "title": "Ein Vorstellungsgespräch",
-        "type": "dialogue",
-        "content": "Chef: Guten Tag, Herr Müller. Bitte nehmen Sie Platz.\nBewerber: Danke sehr.\nChef: Warum möchten Sie bei uns arbeiten?\nBewerber: Ihre Firma hat einen guten Ruf. Ich möchte neue Erfahrungen sammeln.\nChef: Was sind Ihre Stärken?\nBewerber: Ich bin pünktlich, motiviert und arbeite gern im Team."
+        "title": "Schulregeln",
+        "type": "reading",
+        "content": "Wer kennt noch die Englischlehrerin Frau Lindner? Wir sollten jeden Tag 30 Wörter lernen und mussten dreimal pro Woche einen Vokabeltest schreiben. Man durfte keinen Fehler machen, sie war sofort wütend. Zum Glück hatte ich auch tolle Lehrer und der Direktor war nett!\n\nIch musste jeden Tag schon um sechs Uhr aufstehen. Schrecklich! Ich habe auf dem Land gewohnt und musste mit dem Bus um sieben Uhr zur Schule fahren."
       }
     ]
   },
   {
-    "id": "u5",
-    "title": "Kapitel 5: Sport und Freizeit",
-    "description": "Talk about hobbies, sports, and free time activities.",
+    "id": "k5",
+    "title": "Kapitel 5: Nach dem Schulabschluss",
+    "description": "FSJ, Ausbildung und Studium verstehen.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Meine Hobbys",
+        "title": "Schule aus - und nun?",
         "type": "reading",
-        "content": "In meiner Freizeit mache ich gern Sport. Am liebsten spiele ich Fußball mit meinen Freunden. Im Sommer gehe ich oft schwimmen. Im Winter fahre ich manchmal Ski. Sport ist wichtig für die Gesundheit und macht Spaß."
+        "content": "Maike, 19, macht ein FSJ (Freiwilliges Soziales Jahr). Sie betreut Menschen mit Behinderung.\n\nVida, 17, macht eine Ausbildung zur Gärtnerin. Sie lernt einen Beruf und macht eine Lehre.\n\nSara, 21, studiert Jura. Sie besucht Vorlesungen an der Universität und lernt in der Bibliothek."
       },
       {
         "id": "l2",
-        "title": "Im Fitnessstudio",
+        "title": "Meinungen sagen",
         "type": "dialogue",
-        "content": "Trainer: Hallo! Sind Sie zum ersten Mal hier?\nKunde: Ja, ich möchte mich anmelden.\nTrainer: Sehr gut. Wir haben verschiedene Mitgliedschaften. Was interessiert Sie?\nKunde: Ich möchte dreimal pro Woche trainieren.\nTrainer: Dann empfehle ich das Standardpaket für 30 Euro im Monat.\nKunde: Das klingt gut. Wo muss ich unterschreiben?"
+        "content": "Vida: Wie gefällt dir das Studium in Leipzig?\nAlex: Gut! Wann machst du den Schulabschluss?\nFabian: Ich möchte nicht gleich mit dem Studium anfangen. Ich brauche eine Pause.\nVida: Das finde ich gut. Du könntest ein FSJ machen.\nFabian: So einfach ist das nicht. Ich denke, ich möchte keine Zeit verlieren.\nVida: Das sehe ich anders. Eine Pause nach der Schule ist wichtig."
       }
     ]
   },
   {
-    "id": "u6",
-    "title": "Kapitel 6: Gesundheit",
-    "description": "Learn vocabulary for health, body parts, and visiting the doctor.",
+    "id": "k6",
+    "title": "Kapitel 6: Medien",
+    "description": "Über Medien sprechen, Vor- und Nachteile diskutieren.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Beim Arzt",
+        "title": "Was machen Sie mit dem Handy?",
         "type": "reading",
-        "content": "Letzte Woche war ich krank. Ich hatte Kopfschmerzen und Fieber. Also bin ich zum Arzt gegangen. Der Arzt hat mich untersucht und gesagt: Sie haben eine Erkältung. Er hat mir Medikamente verschrieben. Nach drei Tagen ging es mir besser."
+        "content": "Welche Medien und Geräte haben Sie gestern benutzt? Der Computer, der Laptop, das Radio, der Fernseher, die Zeitung, die Zeitschrift, die VR-Brille, die Smartwatch, das Tablet...\n\nWas machen Sie wie oft mit dem Handy? E-Mails checken, Zeitung lesen, mit Freunden sprechen, Radio hören, bezahlen, fernsehen, Musik hören, etwas downloaden, spielen, Nachrichten schicken, chatten, Serien sehen, ein Rezept lesen, Tickets kaufen, telefonieren, lernen."
       },
       {
         "id": "l2",
-        "title": "In der Apotheke",
+        "title": "Was ist besser?",
         "type": "dialogue",
-        "content": "Apothekerin: Guten Tag! Wie kann ich Ihnen helfen?\nKunde: Ich habe ein Rezept vom Arzt.\nApothekerin: Zeigen Sie mir bitte das Rezept. Ah, Antibiotika. Nehmen Sie dreimal täglich eine Tablette.\nKunde: Vor oder nach dem Essen?\nApothekerin: Nach dem Essen ist besser. Das macht fünf Euro Zuzahlung."
+        "content": "Person A: Kauf doch ein Tablet. Das ist viel leichter als ein Laptop. Und billiger ist es auch.\nPerson B: Findest du? Auf dem Laptop kann man aber besser schreiben und der Bildschirm ist größer.\nPerson A: Aber ein Laptop kostet mehr als ein Tablet. Tablets sind praktischer als Laptops.\nPerson B: Das stimmt. Aber ich arbeite lieber mit einem Laptop."
       }
     ]
   },
   {
-    "id": "u7",
-    "title": "Kapitel 7: Reisen und Verkehr",
-    "description": "Plan trips, buy tickets, and navigate transportation.",
+    "id": "k7",
+    "title": "Kapitel 7: Das mache ich am liebsten",
+    "description": "Superlativ verwenden, Interviews machen.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Eine Reise planen",
+        "title": "Gloria: Informatik-Studentin",
         "type": "reading",
-        "content": "Im Urlaub möchte ich nach Italien fahren. Ich muss zuerst einen Flug buchen und ein Hotel reservieren. Die Reise dauert etwa zwei Stunden mit dem Flugzeug. In Italien möchte ich die schönen Städte besichtigen und das leckere Essen probieren."
+        "content": "Ich studiere seit drei Jahren an der Uni. Meine Informatik-Professorin finde ich am interessantesten, weil es bei ihr nie langweilig ist. Wir machen jetzt zum Beispiel ein Projekt: Wir entwickeln eine App für Studierende zum Thema ,Günstig leben'. Zuerst haben wir eine Umfrage gemacht, jetzt programmieren wir die App.\n\nSpäter möchte ich mit zwei Freunden ein Start-Up gründen. Wir wollen Apps mit Tipps für das ,normale' Leben entwickeln und so Menschen helfen, denn das finde ich am wichtigsten.\n\nIn meiner Freizeit bin ich weniger online als meine Freunde. Ich bin am liebsten draußen in der Natur und treffe Menschen. Das ist für mich am schönsten."
       },
       {
         "id": "l2",
-        "title": "Am Bahnhof",
-        "type": "dialogue",
-        "content": "Reisender: Entschuldigung, wann fährt der nächste Zug nach München?\nMitarbeiter: Der nächste Zug fährt um 14:35 Uhr von Gleis 7.\nReisender: Muss ich umsteigen?\nMitarbeiter: Nein, das ist ein Direktzug.\nReisender: Wie viel kostet eine Fahrkarte?\nMitarbeiter: Eine einfache Fahrt kostet 79 Euro. Hin und zurück 120 Euro."
+        "title": "Lars: Fotograf",
+        "type": "reading",
+        "content": "Ich wollte unbedingt Fotograf werden, weil ich Fotos liebe und schon als Kind gern fotografiert habe. Nach der Schule habe ich eine Ausbildung zum Fotografen gemacht - das war viel spannender als die Schule.\n\nAm Anfang hat mir die Ausbildung nicht gefallen, weil ich vieles noch nicht konnte. Jetzt habe ich schon lange ein Studio und mache am liebsten Fotos von Tieren. Für so ein Foto brauche ich viel Vorbereitung und natürlich auch nach dem Shooting viel Zeit am Computer.\n\nDas dauert manchmal lang, aber ich mache das total gern. Meine Fotos sollen perfekt sein und die Menschen glücklich machen - dann bin ich selbst am glücklichsten!"
       }
     ]
   },
   {
-    "id": "u8",
-    "title": "Kapitel 8: Wetter und Klima",
-    "description": "Discuss weather conditions and seasonal changes.",
+    "id": "k8",
+    "title": "Kapitel 8: Fotos posten",
+    "description": "Meinungen verstehen, dass-Sätze bilden.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Das Wetter heute",
+        "title": "Immer und überall",
         "type": "reading",
-        "content": "Heute ist das Wetter schön. Die Sonne scheint und es ist warm. Im Sommer sind die Temperaturen in Deutschland oft über 25 Grad. Im Winter wird es kalt und manchmal schneit es. Der Herbst ist oft windig und regnerisch."
+        "content": "Carla Riemer: Also, ich finde mein Handy sehr praktisch. Aber ich finde es zum Beispiel echt blöd, dass manche Leute jede Aktivität mitteilen. Was soll das? Es interessiert mich nicht, dass eine Freundin ein Käsebrot in den Bergen isst. Ich möchte, dass sie mich anruft und mir alles erzählt. Es nervt, dass die Leute Fotos immer an alle schicken. Sie wollen doch nur zeigen, dass sie super aktiv sind.\n\nKonstantin Bührer: Ich finde es sehr gut, dass man immer Kontakt mit Freunden hat. Gestern war ich zum Beispiel auf einem Konzert. Das war super. Meinen Freunden hat gefallen, dass ich gleich Fotos vom Konzert gepostet habe. Ich habe ganz viele Likes bekommen. Ich mag es, dass ich alles sofort mit meinen Freunden teilen kann."
       },
       {
         "id": "l2",
-        "title": "Wettervorhersage",
-        "type": "dialogue",
-        "content": "Anna: Wie wird das Wetter morgen?\nBen: Ich habe die Wettervorhersage gesehen. Es soll regnen.\nAnna: Oh nein! Ich wollte wandern gehen.\nBen: Vielleicht am Wochenende? Da soll es wieder sonnig werden.\nAnna: Gute Idee. Dann verschieben wir die Wanderung auf Samstag."
+        "title": "Mehr Meinungen",
+        "type": "reading",
+        "content": "Nadica Horvat: Ich finde es toll, dass man Freunde und Bekannte so schnell und einfach informieren kann. Aber ich finde, dass das Handy nicht immer an sein muss und man zum Beispiel nicht jede Party posten muss. Das ist oft peinlich! Ein Kollege von mir hat zum Beispiel im Büro angerufen und gesagt, dass er krank ist. Am Abend hat er dann ein Foto gepostet: Er mit Freunden auf einer Party. Er hat vergessen, dass seine Kollegen und seine Chefin das Foto sehen können. Jetzt sucht er einen neuen Job.\n\nFerdinand Weisensee: Also, ich sehe das alles sehr kritisch. Ich finde es ja okay, dass man Fotos und Videos posten kann. Und es ist auch schön, dass die Oma jeden Tag ein Foto von ihrem Enkel sehen kann. Aber ich finde es gar nicht gut, dass viele Leute Fotos von ihren Kindern posten. Die Kinder können nicht sagen, dass sie das nicht wollen. Ich denke, dass die Leute da vorsichtig sein sollen."
       }
     ]
   },
   {
-    "id": "u9",
-    "title": "Kapitel 9: Feste und Feiertage",
-    "description": "Learn about German celebrations and traditions.",
+    "id": "k9",
+    "title": "Kapitel 9: Kino! Kino!",
+    "description": "Filme beschreiben und kommentieren.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Weihnachten in Deutschland",
+        "title": "Filmbeschreibungen",
         "type": "reading",
-        "content": "Weihnachten ist ein wichtiges Fest in Deutschland. Die Familien treffen sich und feiern zusammen. Man schmückt einen Weihnachtsbaum und singt Weihnachtslieder. Am 24. Dezember gibt es Geschenke. Das Essen ist traditionell: Gans oder Kartoffelsalat mit Würstchen."
+        "content": "Club der roten Bänder: Sechs Jugendliche, sechs Leben mit Problemen und Sorgen - alles ganz ,normal'. Am Anfang kennen sie sich nicht. Ihre Leben sind so verschieden, dass man nicht weiß, wie und warum diese Jugendlichen Freunde werden können. Aber alle haben ein Schicksal: Eine Krankheit oder ein Unfall und plötzlich ist alles anders. Im Krankenhaus werden die Jugendlichen ,Der Club der roten Bänder'.\n\nIst das Leben langweilig?: Charlie ist Lehrerin. Sie lebt zusammen mit ihrem Freund Marco in Berlin. Sie mag Marco, aber sie merkt, dass sie oft andere Träume hat als ihr Freund. Sie findet ihr Leben langweilig und dann wird auch noch ihre Oma krank. Sie weiß nicht, was sie tun soll - und plötzlich macht sie eine Reise nach Tschechien.\n\nHape Kerkeling: Hape (Hans-Peter) Kerkeling ist ein Entertainer aus Deutschland. Der Film beschreibt seine Kindheit. Hans-Peter hat schon mit 9 Jahren viel Talent und seine Familie lacht über seine Witze. Die Mutter von Hans-Peter ist sehr krank und er möchte sie mit seinem Humor fröhlich machen. Aber sie stirbt viel zu jung. Der Film zeigt, dass Familie wichtig ist."
       },
       {
         "id": "l2",
-        "title": "Geburtstagsfeier",
-        "type": "dialogue",
-        "content": "Lisa: Herzlichen Glückwunsch zum Geburtstag, Tom!\nTom: Danke schön, Lisa!\nLisa: Hier ist ein kleines Geschenk für dich.\nTom: Oh, wie nett! Darf ich es öffnen?\nLisa: Natürlich! Ich hoffe, es gefällt dir.\nTom: Ein Buch über Fotografie! Das ist perfekt, danke!"
+        "title": "Über Filme sprechen",
+        "type": "reading",
+        "content": "Positiv:\n- Ich finde, die Schauspieler waren super.\n- Der Film hat wirklich toll gespielt.\n- Die Geschichte war sehr interessant.\n- Der Film war sehr lustig.\n- Die Filmmusik war sehr gut.\n- Sehr spannend!\n\nNegativ:\n- Der Film ist ein bisschen langweilig.\n- Das Ende hat mir nicht so gut gefallen.\n- Die Handlung ist nicht logisch.\n- Der Film hat mir überhaupt nicht gefallen.\n- Ich finde, dass der Film sehr lang war."
       }
     ]
   },
   {
-    "id": "u10",
-    "title": "Kapitel 10: Medien und Kommunikation",
-    "description": "Discuss technology, internet, and communication.",
+    "id": "k10",
+    "title": "Kapitel 10: Feste feiern",
+    "description": "Ereignisse beschreiben, Gefühle ausdrücken.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Soziale Medien",
+        "title": "Wichtige Ereignisse",
         "type": "reading",
-        "content": "Heute benutzen viele Menschen soziale Medien. Sie posten Fotos und Videos und kommunizieren mit Freunden. Manche Leute verbringen viele Stunden am Handy. Das kann problematisch sein. Es ist wichtig, auch Zeit ohne Bildschirm zu verbringen."
+        "content": "Die Hochzeit: die Ringe, das Fest, das Paar, das Brautkleid, glücklich, lieben.\n\nDer erste Schultag: die Schultüte, die Überraschung, der Schulranzen, aufgeregt sein, beginnen.\n\nNeu in der Firma: die Firma, die Getränke, die Kollegen, das Gebäck, kennenlernen.\n\nDie Geburt: das Baby, die Babykleidung, der Storch, schmücken, gratulieren.\n\nDer Führerschein: das Auto, nervös sein, die Prüfung.\n\nDer Marathon: die Medaille, die Siegerin, stolz sein, laufen, gewinnen."
       },
       {
         "id": "l2",
-        "title": "Handyvertrag",
-        "type": "dialogue",
-        "content": "Berater: Guten Tag! Suchen Sie einen neuen Handyvertrag?\nKundin: Ja, mein alter Vertrag ist zu teuer.\nBerater: Was brauchen Sie? Viel Datenvolumen?\nKundin: Ja, mindestens 10 GB pro Monat.\nBerater: Dieser Tarif hat 15 GB und kostet nur 20 Euro monatlich.\nKundin: Das klingt gut. Kann ich meine alte Nummer behalten?"
+        "title": "Gefühle ausdrücken",
+        "type": "reading",
+        "content": "Ich bin glücklich, wenn ich mit Freunden feiern kann.\nIch bin nervös, wenn ich eine Prüfung habe.\nWenn ich einen Horrorfilm sehe, dann habe ich Angst.\nWenn meine Freundin wegfährt, bin ich traurig.\nIch bin genervt, wenn ich im Regen warten muss.\n\nWenn ich Geburtstag habe, dann feiere ich mit meiner Familie.\nWenn das Wetter schön ist, gehe ich spazieren.\nWenn ich müde bin, muss ich lachen."
       }
     ]
   },
   {
-    "id": "u11",
-    "title": "Kapitel 11: Umwelt und Natur",
-    "description": "Learn about environment, nature, and sustainability.",
+    "id": "k11",
+    "title": "Kapitel 11: Glückwünsche",
+    "description": "Glückwünsche aussprechen, sich bedanken.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Umweltschutz",
+        "title": "Karten schreiben",
         "type": "reading",
-        "content": "Umweltschutz ist sehr wichtig. Wir müssen weniger Plastik benutzen und mehr recyceln. In Deutschland trennen die Menschen ihren Müll: Papier, Plastik, Glas und Bioabfall. Auch Energie sparen hilft der Umwelt. Man sollte das Licht ausschalten, wenn man es nicht braucht."
+        "content": "Liebe Julia, lieber Nils,\nWie schön, ihr heiratet! Herzlichen Glückwunsch zur Hochzeit! Wir wünschen euch alles Liebe für die Zukunft.\nHerzliche Grüße,\nMaxi, Ann und Jan\n\nLiebe Gäste,\nTausend Dank für die Blumen, Glückwünsche und Geschenke zu unserer Hochzeit!\nJulia & Nils\n\nWir gratulieren euch sehr herzlich! Herzlichen Dank für die Einladung.\nAlles Gute! Alles Liebe!"
       },
       {
         "id": "l2",
-        "title": "Im Park",
+        "title": "Freude und Bedauern",
         "type": "dialogue",
-        "content": "Maria: Der Park ist so schön! Schau mal, die Blumen!\nPeter: Ja, im Frühling ist alles grün und bunt.\nMaria: Hast du die Vögel gehört?\nPeter: Ja, das sind Amseln. Sie singen wunderschön.\nMaria: Lass uns öfter hierher kommen. Die Natur tut gut.\nPeter: Gute Idee. Nächstes Mal bringen wir ein Picknick mit."
+        "content": "Freude ausdrücken:\n- Das gibt's doch nicht!\n- Ich freue mich auch!\n- Das ist ja toll!\n- Ich freue mich riesig.\n- So ein Glück!\n\nBedauern ausdrücken:\n- Schade!\n- Das tut mir wirklich leid.\n- Entschuldige, das darf doch nicht wahr sein!\n- So ein Pech!\n\nBeruhigen:\n- Das macht doch nichts.\n- Keine Sorge. Es geht schon wieder.\n- Hauptsache, wir feiern jetzt.\n- Es ist alles okay."
       }
     ]
   },
   {
-    "id": "u12",
-    "title": "Kapitel 12: Zukunftspläne",
-    "description": "Discuss future plans, dreams, and goals.",
+    "id": "k12",
+    "title": "Kapitel 12: Ein Fest im Norden",
+    "description": "Über Veranstaltungen sprechen.",
     "lessons": [
       {
         "id": "l1",
-        "title": "Meine Zukunft",
+        "title": "Die Kieler Woche",
         "type": "reading",
-        "content": "In der Zukunft möchte ich viel reisen und neue Länder kennenlernen. Ich werde weiter Deutsch lernen, bis ich fließend spreche. Vielleicht werde ich eines Tages in Deutschland leben und arbeiten. Mein Traum ist es, ein eigenes Unternehmen zu gründen."
+        "content": "Jedes Jahr im Juni findet in Norddeutschland die Kieler Woche statt. Sie ist weltweit bekannt und circa drei Millionen Besucher kommen zu diesem Ereignis nach Kiel.\n\nDie Kieler Woche ist eine Segelregatta und 4.000 Segler aus 70 Nationen nehmen an der größten Segelsport-Veranstaltung der Welt teil. Außerdem kann man auf der Kieler Woche viele alte Schiffe bewundern.\n\nEs gibt auch ein Sommerfest für Kinder und Erwachsene mit vielen Attraktionen. Wenn man Hunger und Durst hat, findet man dort viele internationale Spezialitäten.\n\nAuch Musikfans haben Spaß auf der Kieler Woche: Jedes Jahr finden über 400 Konzerte statt. Die Kieler Woche endet immer mit einem Feuerwerk. Alle freuen sich auf nächstes Jahr, weil es so schön war."
       },
       {
         "id": "l2",
-        "title": "Träume und Wünsche",
-        "type": "dialogue",
-        "content": "Nina: Was sind deine Pläne für die Zukunft?\nMax: Ich möchte mein Studium beenden und dann einen guten Job finden.\nNina: Und wo möchtest du leben?\nMax: Am liebsten in einer großen Stadt wie Berlin oder München.\nNina: Das klingt spannend! Ich wünsche dir viel Erfolg.\nMax: Danke! Was sind deine Träume?"
+        "title": "Über Veranstaltungen sprechen",
+        "type": "reading",
+        "content": "... ist bekannt für ...\n... findet immer im Juni/Herbst statt.\n... Menschen besuchen die Veranstaltung.\nMan kann dort ... sehen/machen/essen/hören.\nEs gibt dort immer ...\n... endet mit ...\n... macht sicher Spaß, weil ...\nDas Fest / Die Veranstaltung ist kostenlos. / Ein Ticket kostet ...\n\nWeitere Feste in D-A-CH:\n- Konstanzer Seenachtfest\n- Donauinselfest in Wien\n- Schwedenfest in Wismar\n- Hamburger Hafengeburtstag\n- Samba-Festival in Coburg\n- Street Parade in Zürich\n- Tollwood in München\n- Klassikfestival in Luzern"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "title": "Kapitel 13: Im Ausland leben",
+    "description": "Blogs verstehen und schreiben.",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Paula in Argentinien",
+        "type": "reading",
+        "content": "Ich wollte schon lange ins Ausland und jetzt bin ich seit zwei Monaten in Argentinien. Es ist echt aufregend. Ich arbeite in einer Sprachschule und unterrichte Deutsch. Die Arbeit macht viel Spaß. Im Kurs ist es oft lustig und wir sprechen viel.\n\nManchmal vermisse ich meine Familie in Deutschland, besonders wenn jemand Geburtstag hat und ich nicht dabei sein kann. Aber ich habe auch hier schnell Freunde gefunden. Wenn ich sie treffe, ist meistens niemand pünktlich ... nur ich! Am Anfang war ich sauer, aber jetzt ist es schon normal für mich. Jetzt komme ich auch einfach später.\n\nMeine Freunde treffen sich meistens ziemlich spät, um 22 Uhr oder noch später. Sie erzählen viel und fragen auch nach Deutschland und Europa. Und ich freue mich, dass mein Spanisch viel besser geworden ist, das ist super! Auch an die andere Währung habe ich mich inzwischen gewöhnt."
+      },
+      {
+        "id": "l2",
+        "title": "Chandan in Kiel",
+        "type": "reading",
+        "content": "Ich komme aus Indien und bin seit dem Frühjahr in Kiel. Am Anfang war ich überrascht, dass manche Sachen so einfach sind, zum Beispiel die Anmeldung an der Uni oder im Wohnheim. Die Mitarbeiter waren freundlich und hilfsbereit und nirgends musste ich lange warten.\n\nMan sagt, dass die Deutschen so genau und ordentlich sind. Das stimmt sicher nicht immer, aber im Verkehr ist es richtig. Wenn der Bus um 9:12 Uhr abfahren soll, dann fährt er meistens auch um 9:12 Uhr ab.\n\nDas Leben hier gefällt mir eigentlich sehr gut. Am Anfang habe ich mich etwas fremd gefühlt und habe meine Freunde vermisst, aber jetzt fühle ich mich wohl. Die Studenten sind nett und ich habe neue Freunde gefunden. Sie haben mir schon viel gezeigt und finden es nicht schlimm, wenn ich etwas nicht verstehe.\n\nWenn meine Freunde Partys machen, bringt jeder etwas zu essen mit. So ist eine Party billiger, denn als Studenten haben wir natürlich nicht viel Geld."
       }
     ]
   },
