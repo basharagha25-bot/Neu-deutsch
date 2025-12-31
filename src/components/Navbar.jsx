@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Home, Settings, Bookmark } from 'lucide-react';
+import { BookOpen, Home, Settings, Bookmark, MessageCircle } from 'lucide-react';
 
 export default function Navbar() {
   return (
@@ -18,6 +18,7 @@ export default function Navbar() {
         <NavLink to="/" icon={<Home size={20} />} text="Home" />
         <NavLink to="/dashboard" icon={<BookOpen size={20} />} text="Kurs" />
         <NavLink to="/vocabulary" icon={<Bookmark size={20} />} text="Wortschatz" />
+        <NavLink to="/conversations" icon={<MessageCircle size={20} />} text="Gespräche" />
         <NavLink to="/settings" icon={<Settings size={20} />} text="Settings" />
       </div>
     </nav>

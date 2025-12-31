@@ -18,13 +18,31 @@ body {
 }
 
 /* Arabic font support */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
 
 .font-arabic {
-  font-family: 'Noto Sans Arabic', 'Arial', sans-serif;
+  font-family: "Noto Sans Arabic", "Arial", sans-serif;
 }
 
 /* RTL text direction for Arabic */
 [dir="rtl"] {
   text-align: right;
+}
+
+/* Custom scrollbar for conversations */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
 }

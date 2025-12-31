@@ -2,6 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
 import UnitView from './pages/UnitView'
 import Vocabulary from './pages/Vocabulary'
+import Conversations from './pages/Conversations'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/unit/:unitId" element={<UnitView />} />
         <Route path="/vocabulary" element={<Vocabulary />} />
+        <Route path="/conversations" element={<Conversations />} />
       </Routes>
     </div>
   )
