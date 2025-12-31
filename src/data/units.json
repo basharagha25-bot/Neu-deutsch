@@ -1,0 +1,34 @@
+[
+    {
+        "id": "u1",
+        "title": "Kapitel 1: Ankommen",
+        "description": "Learn to introduce yourself and ask for directions.",
+        "lessons": [
+            {
+                "id": "l1",
+                "title": "Neu in der Stadt",
+                "type": "reading",
+                "content": "Hallo! Mein Name ist Sarah. Ich komme aus Ägypten. Ich bin neu in Berlin. Die Stadt ist sehr groß und interessant. Ich lerne Deutsch, weil ich hier arbeiten möchte."
+            },
+            {
+                "id": "l2",
+                "title": "Im Café",
+                "type": "dialogue",
+                "content": "Kellner: Hallo! Was möchten Sie bestellen? \nSarah: Ich möchte einen Cappuccino, bitte. \nKellner: Gerne. Sonst noch etwas? \nSarah: Nein, danke. Das ist alles."
+            }
+        ]
+    },
+    {
+        "id": "u2",
+        "title": "Kapitel 2: Zu Hause",
+        "description": "Talking about apartments and furniture.",
+        "lessons": [
+            {
+                "id": "l1",
+                "title": "Meine Wohnung",
+                "type": "reading",
+                "content": "Ich habe eine kleine Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad. Das Wohnzimmer ist hell und gemütlich."
+            }
+        ]
+    }
+]
